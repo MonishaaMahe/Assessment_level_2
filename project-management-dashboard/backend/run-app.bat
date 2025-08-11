@@ -1,0 +1,3 @@
+@echo off
+echo Starting Project Management API...
+mvnw.cmd spring-boot:run
